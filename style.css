@@ -1,0 +1,12 @@
+body{
+    background-color: gold;
+    text-align: center
+}
+table{
+    border-collapse: collapse;
+    border: 2px solid black;
+    margin-left: 510px;
+}
+td{
+    border: 2px solid black;
+}
